@@ -23,7 +23,7 @@ Here is what you need to download for the first time if you want to develop this
 
 - Make sure that you have already installed all the website development requirements above.
 - [<b>Download](https://github.com/Aryaa0112-A/Web-PLN-Prabayar/) this project file </b> and unzip it wherever you want.
-- Or you can use <b>git bash</b> with `git bash here` to the specified folder and start cloning this repository with this command `git clone https://github.com/farsyals9/E-Trolls-Company-PLN.git`.
+- Or you can use <b>git bash</b> with `git bash here` to the specified folder and start cloning this repository with this command `git clone https://github.com/Aryaa0112-A/Web-PLN-Prabayar/`.
 - Copy and paste `env` file to the same directory file and rename it to `.env` and then paste this code to set the database:
 
 ```
